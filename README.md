@@ -6,8 +6,8 @@ Tendo em vista termos muitos dados a serem validados e tratados na gestão de da
 
 O valor de prioridade é calculado considerando os critérios abaixo e pesos definidos pela empresa de :
 
-* valoNegocio : Mede o impacto positivo do dado nos objetivos da empresa — receita, decisões estratégicas, vantagem competitiva, eficiência operacional.
-* risco : Mede a exposição a danos — financeiros, regulatórios, reputacionais ou operacionais.
-* uso : Mede a dependência operacional — quantos processos, dashboards, APIs ou áreas dependem dele.
-* compliance : Mede a obrigação externa — LGPD, GDPR, BACEN, ANS, SOX, contratos, auditorias.
-* sensibilidade : Mede o grau de restrição de acesso — público, interno, confidencial, restrito.
+* **valoNegocio** : Mede o impacto positivo do dado nos objetivos da empresa — receita, decisões estratégicas, vantagem competitiva, eficiência operacional.
+* **risco** : Mede a exposição a danos — financeiros, regulatórios, reputacionais ou operacionais.
+* **uso** : Mede a dependência operacional — quantos processos, dashboards, APIs ou áreas dependem dele.
+* **compliance** : Mede a obrigação externa — LGPD, GDPR, BACEN, ANS, SOX, contratos, auditorias.
+* **sensibilidade** : Mede o grau de restrição de acesso — público, interno, confidencial, restrito.
