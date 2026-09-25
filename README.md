@@ -2,4 +2,4 @@
 
 Ao *mensurarmos os valores de prioridade de cada dado* estamos definindo a *ordem de trabalho*.
 
-Tendo em vista termos muitos dados a serem validados e tratados definirmos a ordem por onde começar o trabalho de validação e correção dos dados é de grande importância.
+Tendo em vista termos muitos dados a serem validados e tratados, definirmos a ordem de trabalho é de grande importância.
